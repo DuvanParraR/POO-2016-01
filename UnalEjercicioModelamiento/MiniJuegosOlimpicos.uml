@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:java="http://www.eclipse.org/papyrus/JAVA/1" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <uml:Model xmi:id="_EIShcOjPEeWtX7Fm88QKoA" name="MiniJuegosOlimpicos">
+    <packageImport xmi:type="uml:PackageImport" xmi:id="_IUVrIOjPEeWtX7Fm88QKoA">
+      <importedPackage xmi:type="uml:Profile" href="pathmap://Papyrus_JAVA_PROFILES/java.profile.uml#_6TYLMN0yEd6P1qtlpBOZyg"/>
+    </packageImport>
+    <packagedElement xmi:type="uml:Class" xmi:id="_QsXtEOjPEeWtX7Fm88QKoA" name="Integrante">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_Q0WH4OjQEeWtX7Fm88QKoA" name="name" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_R3PkwOjPEeWtX7Fm88QKoA" name="Grupo">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_KT89AOjQEeWtX7Fm88QKoA" name="nameOfSport" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_sEMkYujQEeWtX7Fm88QKoA" name="integrante" visibility="private" type="_QsXtEOjPEeWtX7Fm88QKoA" association="_sEKvMOjQEeWtX7Fm88QKoA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ttDYkOjQEeWtX7Fm88QKoA" value="2"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ttEmsOjQEeWtX7Fm88QKoA" value="12"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_S4IaAOjPEeWtX7Fm88QKoA" name="Delegacion">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_ZAZYwOjPEeWtX7Fm88QKoA" name="nameOfCountry" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_4181EOjPEeWtX7Fm88QKoA" name="numAthletes" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_7314wOjPEeWtX7Fm88QKoA" name="numGoldMedals" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="__kOD4OjPEeWtX7Fm88QKoA" name="numSilverMedals" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_CmMnIOjQEeWtX7Fm88QKoA" name="numBronzaMedals" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_Zbzs8OjQEeWtX7Fm88QKoA" name="grupo" visibility="private" type="_R3PkwOjPEeWtX7Fm88QKoA" association="_ZblqgOjQEeWtX7Fm88QKoA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_nZJKgOjQEeWtX7Fm88QKoA" value="5"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_nZLmwOjQEeWtX7Fm88QKoA" value="5"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_UGK6cOjPEeWtX7Fm88QKoA" name="Organizacion">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_xlTAAOjREeWtX7Fm88QKoA" name="name" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_Kgvw8ejSEeWtX7Fm88QKoA" name="delegacion" visibility="private" type="_S4IaAOjPEeWtX7Fm88QKoA" association="_Kgui0OjSEeWtX7Fm88QKoA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Omp2YOjSEeWtX7Fm88QKoA"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_OmrrkOjSEeWtX7Fm88QKoA" value="10"/>
+      </ownedAttribute>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_zlZPgOjREeWtX7Fm88QKoA" name="nuevaDelegacion">
+        <ownedParameter xmi:type="uml:Parameter" xmi:id="_PsdycOjTEeWtX7Fm88QKoA" type="_S4IaAOjPEeWtX7Fm88QKoA" direction="return">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5uPyMOjTEeWtX7Fm88QKoA" value="1"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5uRAUOjTEeWtX7Fm88QKoA" value="1"/>
+        </ownedParameter>
+        <ownedParameter xmi:type="uml:Parameter" xmi:id="_3DXgUOjTEeWtX7Fm88QKoA" name="groupArray" type="_R3PkwOjPEeWtX7Fm88QKoA">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8sg6IOjTEeWtX7Fm88QKoA" value="5"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8sivUOjTEeWtX7Fm88QKoA" value="5"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_j_ltYOjTEeWtX7Fm88QKoA" name="consultarDelegacion">
+        <ownedParameter xmi:type="uml:Parameter" xmi:id="_Dq7dwOjUEeWtX7Fm88QKoA" type="_S4IaAOjPEeWtX7Fm88QKoA" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_J4hocOjUEeWtX7Fm88QKoA" name="cambiarMedallas">
+        <ownedParameter xmi:type="uml:Parameter" xmi:id="_USH5gOjUEeWtX7Fm88QKoA" name="nameOfCountry">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:type="uml:Parameter" xmi:id="_Zk8eAOjUEeWtX7Fm88QKoA" name="newNumMedallas">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </ownedParameter>
+        <ownedParameter xmi:type="uml:Parameter" xmi:id="_e-adEOjUEeWtX7Fm88QKoA" name="typeOfMedalla">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#char"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_i8xJAOjUEeWtX7Fm88QKoA" name="mayorNumMedallas">
+        <ownedParameter xmi:type="uml:Parameter" xmi:id="_otdVQOjUEeWtX7Fm88QKoA" type="_S4IaAOjPEeWtX7Fm88QKoA" direction="return"/>
+      </ownedOperation>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_ZblqgOjQEeWtX7Fm88QKoA" visibility="public" memberEnd="_Zbzs8OjQEeWtX7Fm88QKoA _Zb1iIOjQEeWtX7Fm88QKoA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Zbs_QOjQEeWtX7Fm88QKoA" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Zbs_QejQEeWtX7Fm88QKoA" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_Zb1iIOjQEeWtX7Fm88QKoA" name="delegacion" type="_S4IaAOjPEeWtX7Fm88QKoA" association="_ZblqgOjQEeWtX7Fm88QKoA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gAxOwOjQEeWtX7Fm88QKoA" value="1"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gA4jgOjQEeWtX7Fm88QKoA" value="1"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_sEKvMOjQEeWtX7Fm88QKoA" memberEnd="_sEMkYujQEeWtX7Fm88QKoA _sENLcOjQEeWtX7Fm88QKoA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_sEMkYOjQEeWtX7Fm88QKoA" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sEMkYejQEeWtX7Fm88QKoA" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_sENLcOjQEeWtX7Fm88QKoA" name="grupo" type="_R3PkwOjPEeWtX7Fm88QKoA" association="_sEKvMOjQEeWtX7Fm88QKoA"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_Kgui0OjSEeWtX7Fm88QKoA" visibility="private" memberEnd="_Kgvw8ejSEeWtX7Fm88QKoA _Kgw_EOjSEeWtX7Fm88QKoA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_KgvJ4OjSEeWtX7Fm88QKoA" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Kgvw8OjSEeWtX7Fm88QKoA" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_Kgw_EOjSEeWtX7Fm88QKoA" name="organizacion" type="_UGK6cOjPEeWtX7Fm88QKoA" association="_Kgui0OjSEeWtX7Fm88QKoA"/>
+    </packagedElement>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_PNIu8OjPEeWtX7Fm88QKoA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PNLyQOjPEeWtX7Fm88QKoA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/JAVA/1#/"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://Papyrus_JAVA_PROFILES/java.profile.uml#_6TYLMN0yEd6P1qtlpBOZyg"/>
+    </profileApplication>
+  </uml:Model>
+  <java:JavaProperty xmi:id="_CS76oOjVEeWtX7Fm88QKoA" base_Property="_xlTAAOjREeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_DKktQOjVEeWtX7Fm88QKoA" base_Property="_Kgvw8ejSEeWtX7Fm88QKoA"/>
+  <java:JavaMethod xmi:id="_FtOQMOjVEeWtX7Fm88QKoA" base_Operation="_zlZPgOjREeWtX7Fm88QKoA"/>
+  <java:JavaMethod xmi:id="_GhK1oOjVEeWtX7Fm88QKoA" base_Operation="_j_ltYOjTEeWtX7Fm88QKoA"/>
+  <java:JavaMethod xmi:id="_HMC-oOjVEeWtX7Fm88QKoA" base_Operation="_J4hocOjUEeWtX7Fm88QKoA"/>
+  <java:JavaMethod xmi:id="_H8K0AOjVEeWtX7Fm88QKoA" base_Operation="_i8xJAOjUEeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_I2w0AOjVEeWtX7Fm88QKoA" base_Property="_ZAZYwOjPEeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_JgpegOjVEeWtX7Fm88QKoA" base_Property="_4181EOjPEeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_Kk37oOjVEeWtX7Fm88QKoA" base_Property="_7314wOjPEeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_LOm1IOjVEeWtX7Fm88QKoA" base_Property="__kOD4OjPEeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_L3faEOjVEeWtX7Fm88QKoA" base_Property="_CmMnIOjQEeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_MfBUIOjVEeWtX7Fm88QKoA" base_Property="_Zbzs8OjQEeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_NQl7AOjVEeWtX7Fm88QKoA" base_Property="_KT89AOjQEeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_OC6v0OjVEeWtX7Fm88QKoA" base_Property="_sEMkYujQEeWtX7Fm88QKoA"/>
+  <java:JavaProperty xmi:id="_OuwiIOjVEeWtX7Fm88QKoA" base_Property="_Q0WH4OjQEeWtX7Fm88QKoA"/>
+  <java:JavaClass xmi:id="_PYDWwOjVEeWtX7Fm88QKoA" base_Classifier="_R3PkwOjPEeWtX7Fm88QKoA"/>
+  <java:JavaClass xmi:id="_QB_EkOjVEeWtX7Fm88QKoA" base_Classifier="_QsXtEOjPEeWtX7Fm88QKoA"/>
+  <java:JavaClass xmi:id="_RRCRoOjVEeWtX7Fm88QKoA" base_Classifier="_S4IaAOjPEeWtX7Fm88QKoA"/>
+  <java:JavaClass xmi:id="_R7_TIOjVEeWtX7Fm88QKoA" base_Classifier="_UGK6cOjPEeWtX7Fm88QKoA"/>
+</xmi:XMI>

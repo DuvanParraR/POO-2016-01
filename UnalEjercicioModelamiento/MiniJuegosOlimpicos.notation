@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_EOnL4OjPEeWtX7Fm88QKoA" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_QslvgOjPEeWtX7Fm88QKoA" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Qs5RgOjPEeWtX7Fm88QKoA" type="5029"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Qs5RgejPEeWtX7Fm88QKoA" type="8510">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Qs5RgujPEeWtX7Fm88QKoA" y="5"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Qs7twOjPEeWtX7Fm88QKoA" type="7017">
+      <children xmi:type="notation:Shape" xmi:id="_Q0huEOjQEeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_Q0WH4OjQEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Q0huEejQEeWtX7Fm88QKoA"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Qs7twejPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Qs7twujPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Qs7tw-jPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qs7txOjPEeWtX7Fm88QKoA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Qs7txejPEeWtX7Fm88QKoA" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Qs7txujPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Qs7tx-jPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Qs7tyOjPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qs7tyejPEeWtX7Fm88QKoA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Qs8U0OjPEeWtX7Fm88QKoA" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Qs8U0ejPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Qs8U0ujPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Qs8U0-jPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qs8U1OjPEeWtX7Fm88QKoA"/>
+    </children>
+    <element xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_QsXtEOjPEeWtX7Fm88QKoA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QslvgejPEeWtX7Fm88QKoA" x="1068" y="280"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_R3T2MOjPEeWtX7Fm88QKoA" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_R3UdQOjPEeWtX7Fm88QKoA" type="5029"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_R3UdQejPEeWtX7Fm88QKoA" type="8510">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_R3UdQujPEeWtX7Fm88QKoA" y="5"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_R3UdQ-jPEeWtX7Fm88QKoA" type="7017">
+      <children xmi:type="notation:Shape" xmi:id="_KUPQ4OjQEeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_KT89AOjQEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_KUPQ4ejQEeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ahtIkOjREeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_sEMkYujQEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ahtIkejREeWtX7Fm88QKoA"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_R3UdROjPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_R3UdRejPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_R3UdRujPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R3UdR-jPEeWtX7Fm88QKoA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_R3UdSOjPEeWtX7Fm88QKoA" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_R3UdSejPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_R3UdSujPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_R3UdS-jPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R3UdTOjPEeWtX7Fm88QKoA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_R3VEUOjPEeWtX7Fm88QKoA" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_R3VEUejPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_R3VEUujPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_R3VEU-jPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R3VEVOjPEeWtX7Fm88QKoA"/>
+    </children>
+    <element xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_R3PkwOjPEeWtX7Fm88QKoA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R3T2MejPEeWtX7Fm88QKoA" x="706" y="285"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_S4JoIOjPEeWtX7Fm88QKoA" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_S4JoIujPEeWtX7Fm88QKoA" type="5029"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_S4KPMOjPEeWtX7Fm88QKoA" type="8510">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_S4KPMejPEeWtX7Fm88QKoA" y="5"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_S4KPMujPEeWtX7Fm88QKoA" type="7017">
+      <children xmi:type="notation:Shape" xmi:id="_ZA69MOjPEeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_ZAZYwOjPEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ZA69MejPEeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_42hc0OjPEeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_4181EOjPEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42hc0ejPEeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_74GXcOjPEeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_7314wOjPEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_74G-gOjPEeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="__kgXwOjPEeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#__kOD4OjPEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="__kgXwejPEeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_CmaCgOjQEeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_CmMnIOjQEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_CmaCgejQEeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_V_uLIOjREeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_Zbzs8OjQEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_V_uLIejREeWtX7Fm88QKoA"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_S4KPM-jPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_S4KPNOjPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_S4KPNejPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S4KPNujPEeWtX7Fm88QKoA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_S4KPN-jPEeWtX7Fm88QKoA" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_S4KPOOjPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_S4KPOejPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_S4KPOujPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S4KPO-jPEeWtX7Fm88QKoA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_S4KPPOjPEeWtX7Fm88QKoA" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_S4KPPejPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_S4KPPujPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_S4KPP-jPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S4KPQOjPEeWtX7Fm88QKoA"/>
+    </children>
+    <element xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_S4IaAOjPEeWtX7Fm88QKoA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S4JoIejPEeWtX7Fm88QKoA" x="734" y="16"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_UGMIkOjPEeWtX7Fm88QKoA" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UGMIkujPEeWtX7Fm88QKoA" type="5029"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UGMIk-jPEeWtX7Fm88QKoA" type="8510">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UGMIlOjPEeWtX7Fm88QKoA" y="5"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_UGMvoOjPEeWtX7Fm88QKoA" type="7017">
+      <children xmi:type="notation:Shape" xmi:id="_xlks0OjREeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_xlTAAOjREeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xlks0ejREeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Q1qEkOjSEeWtX7Fm88QKoA" type="3012">
+        <element xmi:type="uml:Property" href="MiniJuegosOlimpicos.uml#_Kgvw8ejSEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Q1qEkejSEeWtX7Fm88QKoA"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_UGMvoejPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UGMvoujPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UGMvo-jPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UGMvpOjPEeWtX7Fm88QKoA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_UGMvpejPEeWtX7Fm88QKoA" type="7018">
+      <children xmi:type="notation:Shape" xmi:id="_zln5AOjREeWtX7Fm88QKoA" type="3013">
+        <element xmi:type="uml:Operation" href="MiniJuegosOlimpicos.uml#_zlZPgOjREeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zln5AejREeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_j_wsgOjTEeWtX7Fm88QKoA" type="3013">
+        <element xmi:type="uml:Operation" href="MiniJuegosOlimpicos.uml#_j_ltYOjTEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_j_wsgejTEeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_J40jYOjUEeWtX7Fm88QKoA" type="3013">
+        <element xmi:type="uml:Operation" href="MiniJuegosOlimpicos.uml#_J4hocOjUEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_J40jYejUEeWtX7Fm88QKoA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_i9BAoOjUEeWtX7Fm88QKoA" type="3013">
+        <element xmi:type="uml:Operation" href="MiniJuegosOlimpicos.uml#_i8xJAOjUEeWtX7Fm88QKoA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_i9BAoejUEeWtX7Fm88QKoA"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_UGMvpujPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UGMvp-jPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UGMvqOjPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UGMvqejPEeWtX7Fm88QKoA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_UGMvqujPEeWtX7Fm88QKoA" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_UGMvq-jPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UGMvrOjPEeWtX7Fm88QKoA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UGMvrejPEeWtX7Fm88QKoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UGMvrujPEeWtX7Fm88QKoA"/>
+    </children>
+    <element xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_UGK6cOjPEeWtX7Fm88QKoA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UGMIkejPEeWtX7Fm88QKoA" x="2" y="43"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_PYc_YOjVEeWtX7Fm88QKoA" type="StereotypeComment">
+    <styles xmi:type="notation:TitleStyle" xmi:id="_PYc_YejVEeWtX7Fm88QKoA" showTitle="true"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_PYeNgOjVEeWtX7Fm88QKoA" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_R3PkwOjPEeWtX7Fm88QKoA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PYc_YujVEeWtX7Fm88QKoA" x="906" y="285"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QCbJcOjVEeWtX7Fm88QKoA" type="StereotypeComment">
+    <styles xmi:type="notation:TitleStyle" xmi:id="_QCbJcejVEeWtX7Fm88QKoA" showTitle="true"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_QCbJc-jVEeWtX7Fm88QKoA" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_QsXtEOjPEeWtX7Fm88QKoA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QCbJcujVEeWtX7Fm88QKoA" x="1268" y="280"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_RRTXYOjVEeWtX7Fm88QKoA" type="StereotypeComment">
+    <styles xmi:type="notation:TitleStyle" xmi:id="_RRTXYejVEeWtX7Fm88QKoA" showTitle="true"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_RRTXY-jVEeWtX7Fm88QKoA" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_S4IaAOjPEeWtX7Fm88QKoA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RRTXYujVEeWtX7Fm88QKoA" x="934" y="16"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_R8aw8OjVEeWtX7Fm88QKoA" type="StereotypeComment">
+    <styles xmi:type="notation:TitleStyle" xmi:id="_R8aw8ejVEeWtX7Fm88QKoA" showTitle="true"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_R8bYAOjVEeWtX7Fm88QKoA" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_UGK6cOjPEeWtX7Fm88QKoA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R8aw8ujVEeWtX7Fm88QKoA" x="202" y="43"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_EOnL4ejPEeWtX7Fm88QKoA" name="diagram_compatibility_version" stringValue="1.1.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_EOnL4ujPEeWtX7Fm88QKoA"/>
+  <styles xmi:type="style:PapyrusViewStyle" xmi:id="_EOnL4-jPEeWtX7Fm88QKoA">
+    <owner xmi:type="uml:Model" href="MiniJuegosOlimpicos.uml#_EIShcOjPEeWtX7Fm88QKoA"/>
+  </styles>
+  <element xmi:type="uml:Model" href="MiniJuegosOlimpicos.uml#_EIShcOjPEeWtX7Fm88QKoA"/>
+  <edges xmi:type="notation:Connector" xmi:id="_ZcC9gOjQEeWtX7Fm88QKoA" type="4001" source="_S4JoIOjPEeWtX7Fm88QKoA" target="_R3T2MOjPEeWtX7Fm88QKoA">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZcFZwOjQEeWtX7Fm88QKoA" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ZcFZwejQEeWtX7Fm88QKoA" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZcGA0OjQEeWtX7Fm88QKoA" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ZcGA0ejQEeWtX7Fm88QKoA" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZcGA0ujQEeWtX7Fm88QKoA" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ZcGA0-jQEeWtX7Fm88QKoA" x="-10" y="-44"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZcGA1OjQEeWtX7Fm88QKoA" type="6005">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ZcGA1ejQEeWtX7Fm88QKoA" x="-35" y="23"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZcGA1ujQEeWtX7Fm88QKoA" type="6033">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ZcGA1-jQEeWtX7Fm88QKoA" x="14" y="14"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZcGA2OjQEeWtX7Fm88QKoA" type="6034">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ZcGA2ejQEeWtX7Fm88QKoA" x="-16" y="-17"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_ZcC9gejQEeWtX7Fm88QKoA"/>
+    <element xmi:type="uml:Association" href="MiniJuegosOlimpicos.uml#_ZblqgOjQEeWtX7Fm88QKoA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZcC9gujQEeWtX7Fm88QKoA" points="[35, 3, -197, -23]$[234, 41, 2, 15]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Zfi9cOjQEeWtX7Fm88QKoA" id="(0.43333333333333335,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Zfi9cejQEeWtX7Fm88QKoA" id="(0.544973544973545,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_sEam0OjQEeWtX7Fm88QKoA" type="4001" source="_R3T2MOjPEeWtX7Fm88QKoA" target="_QslvgOjPEeWtX7Fm88QKoA">
+    <children xmi:type="notation:DecorationNode" xmi:id="_sEam0-jQEeWtX7Fm88QKoA" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sEbN4OjQEeWtX7Fm88QKoA" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sEbN4ejQEeWtX7Fm88QKoA" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sEbN4ujQEeWtX7Fm88QKoA" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sEbN4-jQEeWtX7Fm88QKoA" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sEbN5OjQEeWtX7Fm88QKoA" x="31" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sEbN5ejQEeWtX7Fm88QKoA" type="6005">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sEbN5ujQEeWtX7Fm88QKoA" x="-46" y="21"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sEbN5-jQEeWtX7Fm88QKoA" type="6033">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sEbN6OjQEeWtX7Fm88QKoA" x="10" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sEbN6ejQEeWtX7Fm88QKoA" type="6034">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sEbN6ujQEeWtX7Fm88QKoA" x="-17" y="-16"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_sEam0ejQEeWtX7Fm88QKoA"/>
+    <element xmi:type="uml:Association" href="MiniJuegosOlimpicos.uml#_sEKvMOjQEeWtX7Fm88QKoA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_sEam0ujQEeWtX7Fm88QKoA" points="[28, -1, -131, 55]$[286, 27, 127, 83]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_sFHxcOjQEeWtX7Fm88QKoA" id="(1.0,0.5446428571428571)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_sFIYgOjQEeWtX7Fm88QKoA" id="(0.0,0.53)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_KhDS8OjSEeWtX7Fm88QKoA" type="4001" source="_UGMIkOjPEeWtX7Fm88QKoA" target="_S4JoIOjPEeWtX7Fm88QKoA">
+    <children xmi:type="notation:DecorationNode" xmi:id="_KhDS8-jSEeWtX7Fm88QKoA" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_KhD6AOjSEeWtX7Fm88QKoA" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_KhD6AejSEeWtX7Fm88QKoA" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_KhD6AujSEeWtX7Fm88QKoA" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_KhD6A-jSEeWtX7Fm88QKoA" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_KhD6BOjSEeWtX7Fm88QKoA" x="47" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_KhD6BejSEeWtX7Fm88QKoA" type="6005">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_KhD6BujSEeWtX7Fm88QKoA" x="-41" y="21"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_KhD6B-jSEeWtX7Fm88QKoA" type="6033">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_KhD6COjSEeWtX7Fm88QKoA" x="10" y="15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_KhD6CejSEeWtX7Fm88QKoA" type="6034">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_KhD6CujSEeWtX7Fm88QKoA" x="-30" y="-16"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_KhDS8ejSEeWtX7Fm88QKoA"/>
+    <element xmi:type="uml:Association" href="MiniJuegosOlimpicos.uml#_Kgui0OjSEeWtX7Fm88QKoA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_KhDS8ujSEeWtX7Fm88QKoA" points="[142, 45, -107, -34]$[223, 84, -26, 5]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_KiF0wOjSEeWtX7Fm88QKoA" id="(1.0,0.47058823529411764)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_KiF0wejSEeWtX7Fm88QKoA" id="(0.0,0.5340909090909091)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_PYe0kOjVEeWtX7Fm88QKoA" type="StereotypeCommentLink" source="_R3T2MOjPEeWtX7Fm88QKoA" target="_PYc_YOjVEeWtX7Fm88QKoA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_PYe0kejVEeWtX7Fm88QKoA"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_PYfboujVEeWtX7Fm88QKoA" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_R3PkwOjPEeWtX7Fm88QKoA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PYe0kujVEeWtX7Fm88QKoA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PYfboOjVEeWtX7Fm88QKoA"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PYfboejVEeWtX7Fm88QKoA"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QCbJdOjVEeWtX7Fm88QKoA" type="StereotypeCommentLink" source="_QslvgOjPEeWtX7Fm88QKoA" target="_QCbJcOjVEeWtX7Fm88QKoA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QCbJdejVEeWtX7Fm88QKoA"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_QCbwgujVEeWtX7Fm88QKoA" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_QsXtEOjPEeWtX7Fm88QKoA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QCbJdujVEeWtX7Fm88QKoA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QCbwgOjVEeWtX7Fm88QKoA"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QCbwgejVEeWtX7Fm88QKoA"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_RRTXZOjVEeWtX7Fm88QKoA" type="StereotypeCommentLink" source="_S4JoIOjPEeWtX7Fm88QKoA" target="_RRTXYOjVEeWtX7Fm88QKoA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_RRTXZejVEeWtX7Fm88QKoA"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_RRT-cujVEeWtX7Fm88QKoA" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_S4IaAOjPEeWtX7Fm88QKoA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RRTXZujVEeWtX7Fm88QKoA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RRT-cOjVEeWtX7Fm88QKoA"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RRT-cejVEeWtX7Fm88QKoA"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_R8b_EOjVEeWtX7Fm88QKoA" type="StereotypeCommentLink" source="_UGMIkOjPEeWtX7Fm88QKoA" target="_R8aw8OjVEeWtX7Fm88QKoA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_R8b_EejVEeWtX7Fm88QKoA"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_R8b_FejVEeWtX7Fm88QKoA" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="MiniJuegosOlimpicos.uml#_UGK6cOjPEeWtX7Fm88QKoA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_R8b_EujVEeWtX7Fm88QKoA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_R8b_E-jVEeWtX7Fm88QKoA"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_R8b_FOjVEeWtX7Fm88QKoA"/>
+  </edges>
+</notation:Diagram>
