@@ -1,0 +1,10 @@
+/AgeException.class
+/MailFormatException.class
+/MaximumUserException.class
+/MinimumNonUserException.class
+/MinimumUserException.class
+/NickException.class
+/NotFoundUserException.class
+/OneHundredCharException.class
+/PasswordException.class
+/TwoHundredCharException.class
